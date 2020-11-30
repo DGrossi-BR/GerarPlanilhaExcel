@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "GerarPlanilhaExcel": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false,
+      "authenticationMode": "Windows"
+    }
+  }
+}
